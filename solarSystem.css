@@ -1,0 +1,46 @@
+
+.jumbotron {
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/scorpio-constellation-on-a-beautiful-starry-night-background_sfedwz-3_thumbnail-full05.png);
+    background-position: center;
+    background-size: contain;
+    border: 1px solid white;
+    margin-top: 5%;
+
+}
+ 
+.btn-dark {
+   text-shadow: 1px 1px black;
+}
+
+.display-4 {
+    font-size: 2.3rem;
+    color: #D4D0D0;
+    text-shadow: 2px 2px black;
+}
+ 
+p {
+    color: #D4D0D0;
+    text-shadow: 1px 1px gray;
+}
+
+hr {
+    border-top: 1px solid #D4D0D0 ;
+    border-bottom: 1px solid #D4D0D0;
+    width: 100%;
+    
+}
+
+body { 
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/C2SkUEF/mg0007-night-sky-with-twinkling-stars-animated-background_ekioupkse__F0000.png);
+    background-size: cover;
+    background-position: cover;
+}  
+
+.col-10 p {
+    font-size: 1.4rem;
+    line-height: 1.5;
+}
+
+.col-lg-6 {
+    padding-left: 60px;
+}
